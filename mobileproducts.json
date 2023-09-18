@@ -8,8 +8,8 @@
           "name": "Moto Z2",
           "price" : "39999.00",
           "imageUrl" : "https://images-na.ssl-images-amazon.com/images/I/41ddMNyQe6L.jpg",
-          "ram" : "12GB",
-          "storage" : "256GB",
+          "ram" : "6GB",
+          "storage" : "156GB",
           "camera" : "32MP",
           "isAvailable" : true
           
@@ -20,9 +20,9 @@
           "name": "Iphone X",
           "price" : "20000.00",
           "imageUrl" : "https://www.t-mobile.com/content/dam/t-mobile/en-p/cell-phones/apple/apple-iphone-x/space-gray/Apple-iPhoneX-SpaceGray-1-3x.jpg",
-          "ram" : "12GB",
-          "storage" : "256GB",
-          "camera" : "32MP",
+          "ram" : "4GB",
+          "storage" : "250GB",
+          "camera" : "62MP",
           "isAvailable" : true
         },
         {
@@ -44,7 +44,7 @@
           "imageUrl" : "https://static.toiimg.com/photo/56420863/Nokia-6.jpg",
           "ram" : "12GB",
           "storage" : "256GB",
-          "camera" : "32MP",
+          "camera" : "42MP",
           "isAvailable" : true
         },
         {
@@ -53,9 +53,9 @@
           "name": "Lenovo P2",
           "price" : "15000.00",
           "imageUrl" : "https://www.91-img.com/pictures/lenovo-p2-3gb-ram-mobile-phone-large-1.jpg",
-          "ram" : "12GB",
+          "ram" : "8GB",
           "storage" : "256GB",
-          "camera" : "32MP",
+          "camera" : "62MP",
           "isAvailable" : true
         },
         {
