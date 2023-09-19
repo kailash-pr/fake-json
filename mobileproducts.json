@@ -68,6 +68,28 @@
           "storage" : "256GB",
           "camera" : "32MP",
           "isAvailable" : true
+        },
+        {
+          "id": "7",
+          "brand" : "Oneplus", 
+          "name": "OnePlus 5T",
+          "price" : "22000.00",
+          "imageUrl" : "https://mtech4u.com/cdn/shop/products/s-l500_grande.jpg?v=1680606968",
+          "ram" : "42GB",
+          "storage" : "246GB",
+          "camera" : "62MP",
+          "isAvailable" : true
+        },
+        {
+          "id": "8",
+          "brand" : "Oneplus", 
+          "name": "OnePlus 3T",
+          "price" : "34000.00",
+          "imageUrl" : "https://cdn.opstatics.com/store/20170907/assets/images/events/instant-noodle/19821/kv/kv-mo.webp",
+          "ram" : "42GB",
+          "storage" : "246GB",
+          "camera" : "62MP",
+          "isAvailable" : true
         } 
       ]
     }
