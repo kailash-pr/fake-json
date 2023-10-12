@@ -8,7 +8,7 @@
       "discountPercentage": 55,
       "rating": 4.5,
       "new": "New",
-      "onsale": "onsale",
+      "onsale": "onsale", 
       "stock": 94,
       "brand": "ZARA",
       "category": "bestsellers",
@@ -64,8 +64,7 @@
       ],
       "colors": [
         "bg-light0",
-        "bg-light1",
-        "bg-light2"
+        "bg-light1"
       ],
       "description": [
         {
@@ -101,7 +100,6 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg"
       ],
       "colors": [
-        "bg-light0",
         "bg-light1",
         "bg-light2"
       ],
@@ -140,7 +138,6 @@
       ],
       "colors": [
         "bg-light0",
-        "bg-light1",
         "bg-light2"
       ],
       "description": [
@@ -200,7 +197,7 @@
       "new": "New",
       "onsale": "onsale",
       "stock": 54,
-      "brand": "FOREVER-21",
+      "brand": "FOREVER-21", 
       "category": "bestsellers",
       "size": "s",
       "thumbnail": [
@@ -253,7 +250,6 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/34.jpg"
       ],
       "colors": [
-        "bg-light0",
         "bg-light1",
         "bg-light2"
       ],
@@ -330,7 +326,6 @@
       ],
       "colors": [
         "bg-light0",
-        "bg-light1",
         "bg-light2"
       ],
       "description": [
@@ -368,8 +363,7 @@
       ],
       "colors": [
         "bg-light0",
-        "bg-light1",
-        "bg-light2"
+        "bg-light1"
       ],
       "description": [
         {
@@ -443,7 +437,6 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/14.jpg"
       ],
       "colors": [
-        "bg-light0",
         "bg-light1",
         "bg-light2"
       ],
@@ -520,7 +513,6 @@
       ],
       "colors": [
         "bg-light0",
-        "bg-light1",
         "bg-light2"
       ],
       "description": [
@@ -596,8 +588,7 @@
       ],
       "colors": [
         "bg-light0",
-        "bg-light1",
-        "bg-light2"
+        "bg-light1"
       ],
       "description": [
         {
@@ -633,7 +624,6 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/24.jpg"
       ],
       "colors": [
-        "bg-light0",
         "bg-light1",
         "bg-light2"
       ],
@@ -672,8 +662,7 @@
       ],
       "colors": [
         "bg-light0",
-        "bg-light1",
-        "bg-light2" 
+        "bg-light2"   
       ],
       "description": [
         {
