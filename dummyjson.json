@@ -10,8 +10,9 @@
       "new":"New",
       "onsale":"onsale",
       "stock": 94, 
-      "brand": "Apple",
-      "category": "smartphones",
+      "brand": "ZARA",
+      "category": "cloths",
+      "size": "m",
       "thumbnail": [
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/10.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/9.jpg"
@@ -41,19 +42,19 @@
     },
     {
       "id": 2,
-      "title": "WOMEN PINK SHIRT",
-      "price": 32.96,
-      "originalprice":459.00,
+      "title": "Solid Blue Dress",
+      "price": 42.96,
+      "originalprice":59.00,
       "discountPercentage": 55,
-      "rating": 4.5,
+      "rating": 3.5,
       "new":"New",
       "onsale":"onsale",
-      "stock": 94, 
-      "brand": "Apple",
-      "category": "smartphones",
+      "stock": 44, 
+      "brand": "VERA-MODA",
+      "category": "clothes",
+      "size": "s",
       "thumbnail": [
-        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/10.jpg",
-        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/9.jpg"
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/8.jpg"
       ],
       "images": [
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/8.jpg",
