@@ -1,26 +1,40 @@
-[
-  {
-    "name": "Meowsy",
-    "species" : "cat",
-    "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "WOMEN PINK SHIRT",
+      "price": 32.96,
+      "originalprice":459.00,
+      "discountPercentage": 55,
+      "rating": 4.5,
+      "new":"New",
+      "onsale":"onsale",
+      "stock": 94, 
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/10.jpg",
+      "images": [
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/8.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/7.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/6.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/5.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg"
+      ],
+      "colors":[
+        {
+          "lightblue":"#d0edff",
+          "lightgrey" :"#f1e7e6",
+          "lightblack":"#bfbfbf"
+        }
+      ],
+      "description": [
+        {
+            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+            "Size & Fit": "The model (height 5'8') is wearing a size S"
+        }
+      ],
+      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     }
-  },
-  {
-    "name": "Barky",
-    "species" : "dog",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
-    }
-  },
-  {
-    "name": "Purrpaws",
-    "species" : "cat",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
-    }
-  }
-]
+  ]
+}
