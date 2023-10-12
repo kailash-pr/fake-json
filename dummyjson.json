@@ -506,6 +506,126 @@
         {
           "lightblue":"#d0edff",
           "lightgrey" :"#f1e7e6"
+        } 
+      ],  
+      "description": [
+        {
+            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+            "Size & Fit": "The model (height 5'8') is wearing a size S"
+        }
+      ],
+      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+    },
+    {
+      "id": 13,
+      "title": "Black Full Sleavee T-Shirt",
+      "price": 52.96,
+      "originalprice":49.00,
+      "discountPercentage": 55,
+      "rating": 4.5,
+      "new":"New",
+      "onsale":"onsale",
+      "stock": 54, 
+      "brand": "ROADSTER",
+      "category": "newproducts",
+      "size": "s",
+      "thumbnail": [
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/18.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/17.jpg"
+      ],
+      "images": [
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/5.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/3.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/2.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg"
+      ],
+      "colors":[
+        {
+          "lightblue":"#d0edff",
+          "lightgrey" :"#f1e7e6",
+          "lightblack":"#bfbfbf"
+        }
+      ],  
+      "description": [
+        {
+            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+            "Size & Fit": "The model (height 5'8') is wearing a size S"
+        }
+      ],
+      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+    },
+    {
+      "id": 14,
+      "title": "Blue linend White T-Shirt",
+      "price": 32.96,
+      "originalprice":49.00,
+      "discountPercentage": 55,
+      "rating": 3.5,
+      "new":"New",
+      "onsale":"onsale",
+      "stock": 54, 
+      "brand": "ROADSTER",
+      "category": "newproducts",
+      "size": "s",
+      "thumbnail": [
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/28.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/27.jpg"
+      ],
+      "images": [
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/5.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/3.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/2.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg"
+      ],
+      "colors":[
+        {
+          "lightblue":"#d0edff",
+          "lightgrey" :"#f1e7e6",
+          "lightblack":"#bfbfbf"
+        }
+      ],  
+      "description": [
+        {
+            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+            "Size & Fit": "The model (height 5'8') is wearing a size S"
+        }
+      ],
+      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+    },
+    {
+      "id": 14,
+      "title": "Blue linend White T-Shirt",
+      "price": 32.96,
+      "originalprice":49.00,
+      "discountPercentage": 55,
+      "rating": 3.5,
+      "new":"New",
+      "onsale":"onsale",
+      "stock": 54, 
+      "brand": "ROADSTER",
+      "category": "newproducts",
+      "size": "s",
+      "thumbnail": [
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/28.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/27.jpg"
+      ],
+      "images": [
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/5.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/3.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/2.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg"
+      ],
+      "colors":[
+        {
+          "lightblue":"#d0edff",
+          "lightgrey" :"#f1e7e6",
+          "lightblack":"#bfbfbf"
         }
       ],  
       "description": [
@@ -517,5 +637,6 @@
       ],
       "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     }
+
   ]
 } 
