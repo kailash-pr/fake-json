@@ -9,7 +9,7 @@
       "rating": 4.5,
       "new":"New",
       "onsale":"onsale",
-      "stock": 94, 
+      "stock": 94,  
       "brand": "ZARA",
       "category": "bestsellers",
       "size": "m",
@@ -66,7 +66,7 @@
       ],
       "colors":[
         {
-          "lightblue":"bg-light0",
+          "lightblue":"",
           "lightgrey" :"bg-light1",
           "lightblack":"bg-light2"
         }
@@ -106,8 +106,9 @@
       ],
       "colors":[
         {
+          "lightblue":"bg-light0",
           "lightgrey" :"bg-light1",
-          "lightblack":"bg-light2"
+          "lightblack":""
         }
       ],  
       "description": [
@@ -146,6 +147,7 @@
       "colors":[
         {
           "lightblue":"bg-light0",
+          "lightgrey" :"bg-light1",
           "lightblack":"bg-light2"
         }
       ],  
@@ -185,7 +187,8 @@
       "colors":[
         {
           "lightblue":"bg-light0",
-          "lightgrey" :"bg-light1"
+          "lightgrey" :"",
+          "lightblack":"bg-light2"
 
         }
       ],  
@@ -265,6 +268,7 @@
       "colors":[
         {
           "lightblue":"bg-light0",
+          "lightgrey" :"bg-light1",
           "lightblack":"bg-light2"
         }
       ],  
@@ -303,7 +307,8 @@
       ],
       "colors":[
         {
-          "lightgrey" :"bg-light1",
+          "lightblue":"bg-light0",
+          "lightgrey" :"",
           "lightblack":"bg-light2"
         }
       ],  
@@ -344,7 +349,7 @@
         {
           "lightblue":"bg-light0",
           "lightgrey" :"bg-light1",
-          "lightblack":"bg-light2"
+          "lightblack":""
         }
       ],  
       "description": [
@@ -423,7 +428,8 @@
       "colors":[
         {
           "lightblue":"bg-light0",
-          "lightgrey" :"bg-light1"
+          "lightgrey" :"",
+          "lightblack":"bg-light2"
         }
       ],  
       "description": [
@@ -461,7 +467,8 @@
       ],
       "colors":[
         {
-          "lightblue":"bg-light0",
+          "lightblue":"",
+          "lightgrey" :"bg-light1",
           "lightblack":"bg-light2"
         }
       ],  
@@ -540,8 +547,9 @@
       ],
       "colors":[
         {
+          "lightblue":"bg-light0",
           "lightgrey" :"bg-light1",
-          "lightblack":"bg-light2"
+          "lightblack":""
         }
       ],  
       "description": [
@@ -620,6 +628,7 @@
       "colors":[
         {
           "lightblue":"bg-light0",
+          "lightgrey" :"",
           "lightblack":"bg-light2"
         }
       ],  
