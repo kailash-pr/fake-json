@@ -12,7 +12,10 @@
       "stock": 94, 
       "brand": "Apple",
       "category": "smartphones",
-      "thumbnail": "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/10.jpg",
+      "thumbnail": [
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/10.jpg",
+        "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/9.jpg"
+      ],
       "images": [
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/8.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/7.jpg",
