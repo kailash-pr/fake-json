@@ -4,12 +4,12 @@
       "id": 1,
       "title": "WOMEN PINK SHIRT",
       "price": 32.96,
-      "originalprice":459.00,
+      "originalprice": 459.00,
       "discountPercentage": 55,
       "rating": 4.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 94,   
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 94,
       "brand": "ZARA",
       "category": "bestsellers",
       "size": "m",
@@ -24,39 +24,37 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/5.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"bg-light1",
-          "lightblack":"bg-light2"
-        }
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
       ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 2,
       "title": "Solid Blue Dress",
       "price": 42.96,
-      "originalprice":59.00,
+      "originalprice": 59.00,
       "discountPercentage": 55,
       "rating": 3.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 44, 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 44,
       "brand": "VERA-MODA",
       "category": "newproducts",
       "size": "s",
       "thumbnail": [
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/27.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/28.jpg"
-      ], 
+      ],
       "images": [
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/8.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/7.jpg",
@@ -64,32 +62,30 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/5.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"",
-          "lightgrey" :"bg-light1",
-          "lightblack":"bg-light2"
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 3,
       "title": "Black Full Sleavee T-Shirt",
       "price": 62.96,
-      "originalprice":59.00,
+      "originalprice": 59.00,
       "discountPercentage": 55,
       "rating": 2.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 54, 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 54,
       "brand": "ROADSTER",
       "category": "newproducts",
       "size": "s",
@@ -104,32 +100,30 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/2.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"bg-light1",
-          "lightblack":""
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 4,
       "title": "Wide Linen-Blend Trousers",
       "price": 72.96,
-      "originalprice":69.00,
+      "originalprice": 69.00,
       "discountPercentage": 55,
       "rating": 4.5,
-      "new":"New",
-      "onsale":"onsale", 
-      "stock": 54, 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 54,
       "brand": "FOREVER-21",
       "category": "featured",
       "size": "s",
@@ -144,33 +138,31 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/2.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"bg-light1",
-          "lightblack":"bg-light2"
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 5,
       "title": "Red Long Sleeve Rounded T-Shirt",
       "price": 82.96,
-      "originalprice":79.00,
+      "originalprice": 79.00,
       "discountPercentage": 55,
       "rating": 3.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 54, 
-      "brand": "FOREVER-21", 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 54,
+      "brand": "FOREVER-21",
       "category": "bestsellers",
       "size": "s",
       "thumbnail": [
@@ -184,34 +176,31 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/12.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/14.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"",
-          "lightblack":"bg-light2"
-
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 6,
       "title": "Slim Fit Cotton Shirt",
       "price": 92.96,
-      "originalprice":79.00,
+      "originalprice": 79.00,
       "discountPercentage": 55,
       "rating": 3.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 54, 
-      "brand": "FOREVER-21", 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 54,
+      "brand": "FOREVER-21",
       "category": "bestsellers",
       "size": "s",
       "thumbnail": [
@@ -225,33 +214,31 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/22.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/24.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"bg-light1",
-          "lightblack":"bg-light2"
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 7,
       "title": "Solid Blue Dress",
       "price": 32.96,
-      "originalprice":49.00,
+      "originalprice": 49.00,
       "discountPercentage": 55,
       "rating": 3.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 24, 
-      "brand": "VERA-MODA", 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 24,
+      "brand": "VERA-MODA",
       "category": "featured",
       "size": "s",
       "thumbnail": [
@@ -265,33 +252,31 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/32.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/34.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"bg-light1",
-          "lightblack":"bg-light2"
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 8,
       "title": "Blue linend White T-Shirt",
       "price": 52.96,
-      "originalprice":69.00,
+      "originalprice": 69.00,
       "discountPercentage": 55,
       "rating": 3.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 24, 
-      "brand": "VERA-MODA", 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 24,
+      "brand": "VERA-MODA",
       "category": "featured",
       "size": "s",
       "thumbnail": [
@@ -305,33 +290,31 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/2.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"",
-          "lightblack":"bg-light2"
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 8,
       "title": "Blue linend White T-Shirt",
       "price": 52.96,
-      "originalprice":69.00,
+      "originalprice": 69.00,
       "discountPercentage": 55,
       "rating": 3.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 24, 
-      "brand": "VERA-MODA", 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 24,
+      "brand": "VERA-MODA",
       "category": "topcollection",
       "size": "s",
       "thumbnail": [
@@ -345,33 +328,31 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/12.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/14.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"bg-light1",
-          "lightblack":""
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 9,
       "title": "Black Full Sleavee T-Shirt",
       "price": 32.96,
-      "originalprice":49.00,
+      "originalprice": 49.00,
       "discountPercentage": 55,
       "rating": 5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 2, 
-      "brand": "ROADSTER", 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 2,
+      "brand": "ROADSTER",
       "category": "topcollection",
       "size": "m",
       "thumbnail": [
@@ -385,33 +366,31 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/12.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/14.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"bg-light1",
-          "lightblack":"bg-light2"
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 10,
       "title": "Solid Black top",
       "price": 52.96,
-      "originalprice":49.00,
+      "originalprice": 49.00,
       "discountPercentage": 55,
       "rating": 3.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 2, 
-      "brand": "ZARA", 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 2,
+      "brand": "ZARA",
       "category": "topcollection",
       "size": "m",
       "thumbnail": [
@@ -425,33 +404,31 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/2.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/14.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"",
-          "lightblack":"bg-light2"
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 11,
       "title": "Red Long Sleeve Rounded T-Shirt",
       "price": 42.96,
-      "originalprice":39.00,
+      "originalprice": 39.00,
       "discountPercentage": 55,
       "rating": 2.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 2, 
-      "brand": "ZARA", 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 2,
+      "brand": "ZARA",
       "category": "topcollection",
       "size": "m",
       "thumbnail": [
@@ -465,33 +442,31 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/12.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/14.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"",
-          "lightgrey" :"bg-light1",
-          "lightblack":"bg-light2"
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 12,
       "title": "Slim Fit Cotton Shirt",
       "price": 42.96,
-      "originalprice":39.00,
+      "originalprice": 39.00,
       "discountPercentage": 55,
       "rating": 4.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 2, 
-      "brand": "ZARA", 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 2,
+      "brand": "ZARA",
       "category": "topcollection",
       "size": "m",
       "thumbnail": [
@@ -505,32 +480,30 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/17.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/16.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"bg-light1",
-          "lightblack":"bg-light2"
-        } 
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 13,
       "title": "Black Full Sleavee T-Shirt",
       "price": 52.96,
-      "originalprice":49.00,
+      "originalprice": 49.00,
       "discountPercentage": 55,
       "rating": 4.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 54, 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 54,
       "brand": "ROADSTER",
       "category": "newproducts",
       "size": "s",
@@ -545,32 +518,30 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/2.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"bg-light1",
-          "lightblack":""
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 14,
       "title": "Blue linend White T-Shirt",
       "price": 32.96,
-      "originalprice":49.00,
+      "originalprice": 49.00,
       "discountPercentage": 55,
       "rating": 3.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 54, 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 54,
       "brand": "ROADSTER",
       "category": "newproducts",
       "size": "s",
@@ -585,32 +556,30 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/2.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"bg-light1",
-          "lightblack":"bg-light2"
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 14,
       "title": "Blue linend White T-Shirt",
       "price": 32.96,
-      "originalprice":49.00,
+      "originalprice": 49.00,
       "discountPercentage": 55,
       "rating": 3.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 54, 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 54,
       "brand": "ROADSTER",
       "category": "newproducts",
       "size": "s",
@@ -625,33 +594,31 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/2.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"",
-          "lightblack":"bg-light2"
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 15,
       "title": "Slim Fit Cotton Shirt",
       "price": 52.96,
-      "originalprice":69.00,
+      "originalprice": 69.00,
       "discountPercentage": 55,
       "rating": 4.5,
-      "new":"New",
-      "onsale":"onsale",
-      "stock": 54, 
-      "brand": "ONLY", 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 54,
+      "brand": "ONLY",
       "category": "bestsellers",
       "size": "s",
       "thumbnail": [
@@ -665,36 +632,34 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/22.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/24.jpg"
       ],
-      "colors":[
-        {
-          "lightblue":"bg-light0",
-          "lightgrey" :"bg-light1",
-          "lightblack":"bg-light2"
-        }
-      ],  
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2"
+      ],
       "description": [
         {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     },
     {
       "id": 16,
       "title": "Wide Linen-Blend Trousers",
       "price": 152.96,
-      "originalprice":169.00,
+      "originalprice": 169.00,
       "discountPercentage": 45,
       "rating": 3.5,
-      "new":"New",
-      "onsale":"onsale", 
-      "stock": 54, 
+      "new": "New",
+      "onsale": "onsale",
+      "stock": 54,
       "brand": "FOREVER-21",
       "category": "featured",
       "size": "s",
-      "thumbnail": [ 
+      "thumbnail": [
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/15.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/21.jpg"
       ],
@@ -705,22 +670,19 @@
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/2.jpg",
         "https://themes.pixelstrap.com/multikart/assets/images/fashion/product/4.jpg"
       ],
-      "colors":[
+      "colors": [
+        "bg-light0",
+        "bg-light1",
+        "bg-light2" 
+      ],
+      "description": [
         {
-          "lightblue":"bg-light0",
-          "lightgrey" :"bg-light1",
-          "lightblack":"bg-light2"
-        }
-      ],   
-      "description": [ 
-        {
-            "des":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
-            "Fabric":"Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
-            "Size & Fit": "The model (height 5'8') is wearing a size S"
+          "des": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color.",
+          "Fabric": "Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.Art silk is manufactured by synthetic fibres like rayon. It's light in weight and is soft on the skin for comfort in summers.",
+          "Size & Fit": "The model (height 5'8') is wearing a size S"
         }
       ],
-      "specifications":"The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
+      "specifications": "The Model is wearing a white blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like.it has text written on it in a black cursive language which looks great on a white color."
     }
-
   ]
-}  
+}
