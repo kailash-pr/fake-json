@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "top collection",
+      "welcome": "",
       "offer": "20% off",
       "btnlink": "category-page.html",
       "image": "https://themes.pixelstrap.com/multikart/assets/images/home-banner/36.jpg"
@@ -10,8 +11,8 @@
     {
       "id": 2,
       "title": "women collection",
-      "offer": "20% off",
       "welcome": "welcome to fashion",
+      "offer": "",
       "btnlink": "category-page.html",
       "image": "https://themes.pixelstrap.com/multikart/assets/images/home-banner/37.jpg"
     }
