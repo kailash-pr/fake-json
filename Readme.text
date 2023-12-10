@@ -1,12 +1,11 @@
 1.cd
-2.cd Desktop/github/
-3.cd github/fake-json
-4.git status
-5.git diff Readme.text
-6.git add Readme.text
-7.git status
-8.git commit -m "modified readme"
-9.git config --global user.email "kailasamcse@gmail.com"
-10.git config --global user.name "kailash-pr"
-11.git commit -m "modified readme"
-12.git push 
+2.cd Desktop/github/fake-json
+3.git status
+4.git diff Readme.text
+5.git add Readme.text
+6.git status
+7.git commit -m "modified readme"
+8.git config --global user.email "kailasamcse@gmail.com"
+9.git config --global user.name "kailash-pr"
+10.git commit -m "modified readme"
+11.git push 
